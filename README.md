@@ -1,1 +1,1 @@
-# huang-natgen2021
+# Code and data for the chromatin imaging analyses in "CTCF Mediates Dosage and Sequence-context-dependent Transcriptional Insulation through Formation of Local Chromatin Domains" published in Nature Genetics.
